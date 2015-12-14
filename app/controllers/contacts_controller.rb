@@ -3,6 +3,7 @@ def new
   @contact = Contact.new
 end
 
-	def create
-	end
+
+def create
+end
 end
